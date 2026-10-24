@@ -1,2 +1,2 @@
-# Snooker-coach
+index.html
 Mijn ai snookertrainingsapp
